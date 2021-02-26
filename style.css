@@ -1,12 +1,10 @@
-h1 {
+#Body {
+    background: linear-gradient(#ff99ff 0%, #73f1ff 100%);
     text-align: center;
 }
-
-div {
-    text-align: center;
-}
-
-img {
-    height: 350px;
-    border-radius: 200px;
+#line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
 }
